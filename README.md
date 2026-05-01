@@ -17,3 +17,9 @@ This project analyzes ecommerce sales data using Python to generate business ins
 
 ## 👨‍💻 Author
 Naman
+## 📊 Interactive Dashboard
+This project includes a Streamlit dashboard for real-time data analysis.
+
+### ▶️ Run Locally
+```bash
+streamlit run app.py
