@@ -1,25 +1,21 @@
-# 🛒 Ecommerce Data Analysis Project
+# 📊 E-commerce Sales Dashboard
 
-## 📌 Project Overview
-This project analyzes ecommerce sales data using Python to generate business insights.
+## 🚀 Project Overview
+This project analyzes e-commerce sales data and provides interactive visual insights using Streamlit.
 
-## 🛠️ Tech Stack
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
+## 📈 Features
+- Data Cleaning & Processing
+- Interactive Dashboard
+- Sales & Profit Analysis
+- Category Filtering
+- Heatmap Visualization
 
-## 📊 Features
-- Data Cleaning
-- Sales Analysis
-- Category-wise Insights
-- Visualization (Charts & Graphs)
+## 🖥️ Live Dashboard Screenshots
 
-## 👨‍💻 Author
-Naman
-## 📊 Interactive Dashboard
-This project includes a Streamlit dashboard for real-time data analysis.
+![Dashboard](dashboard1.png)
+![Dashboard](dashboard2.png)
 
-### ▶️ Run Locally
+## ▶ Run Locally
 ```bash
+pip install streamlit pandas matplotlib seaborn
 streamlit run app.py
